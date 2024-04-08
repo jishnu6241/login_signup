@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097294700014",
+    "project_id": "sample-task-473f1",
+    "storage_bucket": "sample-task-473f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097294700014:android:ce7fa8c103b9b60a2f82ff",
+        "android_client_info": {
+          "package_name": "com.luminartechinolab.sampletask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa6y4ZyYENNI9YOUuli-iErN5bUb__IkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
